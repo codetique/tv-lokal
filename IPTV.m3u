@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1,RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+
+#EXTINF:-1,GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-1,MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+
+#EXTINF:-1,INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+
+#EXTINF:-1,TransTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1187896734_b344100_sleng.m3u8
+
+#EXTINF:-1,Trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1187896734_b344100_sleng.m3u8
